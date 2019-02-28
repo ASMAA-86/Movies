@@ -22,7 +22,7 @@ class Movie extends Component {
         <p>
           "a a lot of things happened in thos movie you will find many things ,
           is a great choice for the family we are like it and we hope you will
-          like it too.
+          like it too."
         </p>
         <Review />
         <div>{casts}</div>
